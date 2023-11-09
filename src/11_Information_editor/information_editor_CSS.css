@@ -1,0 +1,22 @@
+.body_information_editor{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+}
+
+#Information_editor, #Information_editor_tailw {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.IE_text{
+    margin-top: 10px;
+    height: 100px;
+    font-family: cursive;
+}
+
+#Information_editor > textarea, #Information_editor_tailw > textarea {
+    border: solid 1px black;
+}

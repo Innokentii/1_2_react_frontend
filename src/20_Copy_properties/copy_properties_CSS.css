@@ -1,0 +1,19 @@
+.body_copy_properties {
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.block_Copy_properties {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 50px;
+}
+
+.block_Copy_properties > div {
+    width: 500px;
+    height: 80px;
+    border: solid 2px black;
+    padding: 5px;
+}

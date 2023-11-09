@@ -1,0 +1,18 @@
+.body_line_selection {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.3em;
+}
+
+.line_selection > li {
+    list-style-type: decimal;
+}
+
+.line_selection > li:hover {
+    font-weight: bold;
+}
+
+.line_selection_span_id {
+    margin-top: 40px;
+}

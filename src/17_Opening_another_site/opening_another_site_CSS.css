@@ -1,0 +1,13 @@
+.body_opening_another_site {
+    width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.Ifarme_html {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
